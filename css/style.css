@@ -19,6 +19,9 @@ a {
 
 .logo {
   font: inherit;
+  padding: 13px 55px;
+  box-shadow: 0 5px #b52933;
+  margin: 0;
   vertical-align: middle;
   background-color: #ee3643;
   border: none
@@ -35,8 +38,8 @@ a {
   background: #ba2732;
 }
 
-.navigation {
-  background-color: #f3f7f9;
+.main-navigation {
+  background-color: #293449;
 }
 
 .header-form {
@@ -406,3 +409,8 @@ text-decoration: underline;
   border: none;
   background-color: red;
 }
+
+
+
+
+/*-------временно для сеток----*/
